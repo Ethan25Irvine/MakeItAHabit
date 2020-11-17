@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-makeitahabit-dev-194121-authRole",
+      "UnauthRoleArn": "arn:aws:iam::510577604684:role/amplify-makeitahabit-dev-194121-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::510577604684:role/amplify-makeitahabit-dev-194121-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-makeitahabit-dev-194121-deployment",
+      "UnauthRoleName": "amplify-makeitahabit-dev-194121-unauthRole",
+      "StackName": "amplify-makeitahabit-dev-194121",
+      "StackId": "arn:aws:cloudformation:us-east-2:510577604684:stack/amplify-makeitahabit-dev-194121/620afe10-287e-11eb-9d6a-027e611afa34",
+      "AmplifyAppId": "d2javwpo9if7u1"
+    },
+    "categories": {
+      "auth": {
+        "makeitahabit3f02c3e1": {}
+      }
+    }
+  }
+}

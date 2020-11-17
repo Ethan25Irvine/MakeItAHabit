@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "makeitahabit3f02c3e1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
